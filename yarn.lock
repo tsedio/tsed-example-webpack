@@ -1199,10 +1199,10 @@
   dependencies:
     tslib "2.0.1"
 
-"@tsed/cli-plugin-eslint@2.7.0":
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/@tsed/cli-plugin-eslint/-/cli-plugin-eslint-2.7.0.tgz#5e4d348e4f4355f9166898d3a43163c7cb3f7f8c"
-  integrity sha512-U9wEd0pSINzjoVA7eqNVumXPFXfiNlgXg+5Q60+qhiRI7GKdxB7pabYIN5L+a/h8vtQMgZfrCBASTqzIoBoSwQ==
+"@tsed/cli-plugin-eslint@2.7.1":
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/@tsed/cli-plugin-eslint/-/cli-plugin-eslint-2.7.1.tgz#cf134a98fa64c32eb2d6d713b7406350be2ef993"
+  integrity sha512-gWgX2GVtS4fPxMf9WUbsEfu7aMmZpIl8Un5Dk7DRH0fNbl3/HMz16p9RZ817Mbwc2jmHm4x9uV3pnYXiXm+J3g==
   dependencies:
     tslib "2.0.3"
 
