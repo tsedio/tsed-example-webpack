@@ -1200,10 +1200,10 @@
     ajv-formats "1.5.1"
     tslib "2.0.1"
 
-"@tsed/cli-plugin-eslint@2.7.0":
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/@tsed/cli-plugin-eslint/-/cli-plugin-eslint-2.7.0.tgz#5e4d348e4f4355f9166898d3a43163c7cb3f7f8c"
-  integrity sha512-U9wEd0pSINzjoVA7eqNVumXPFXfiNlgXg+5Q60+qhiRI7GKdxB7pabYIN5L+a/h8vtQMgZfrCBASTqzIoBoSwQ==
+"@tsed/cli-plugin-eslint@2.8.1":
+  version "2.8.1"
+  resolved "https://registry.yarnpkg.com/@tsed/cli-plugin-eslint/-/cli-plugin-eslint-2.8.1.tgz#183230935a012bd09c2648a3645658d33008e08b"
+  integrity sha512-BK4391QWkkHYaHJjxIPkudsgL1OuPNgHsIxY+6psTPziImGePhBqJDnZU4r+XORPMLGKIFe/EiU5uVsc5h9Now==
   dependencies:
     tslib "2.0.3"
 
