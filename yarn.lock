@@ -1207,12 +1207,12 @@
   dependencies:
     tslib "2.0.3"
 
-"@tsed/cli-plugin-jest@2.7.0":
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/@tsed/cli-plugin-jest/-/cli-plugin-jest-2.7.0.tgz#e114b6e243d799c453b52b5090880da4474779f3"
-  integrity sha512-qQj0Vm7sQ5f/KV4zth1vI5vIYYDSoXhdBlb/98C2U352AE5cBIBW2UE7L4Q4wZOyNk6xd4ja7T3fnTNTEq7Rmw==
+"@tsed/cli-plugin-jest@3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@tsed/cli-plugin-jest/-/cli-plugin-jest-3.0.2.tgz#72035b34c2ef6b0379f00200290e6d50e10e1e5f"
+  integrity sha512-n+IJN2iO6x0HV0zWBfqyw8CS7nMFEmsNQVkJ+JwPm0pKLoXLUpY/gwCv6vmBKbL8HLtKBpIc1LeI68QRbbmGhw==
   dependencies:
-    tslib "2.0.3"
+    tslib "2.1.0"
 
 "@tsed/common@6.43.3":
   version "6.43.3"
