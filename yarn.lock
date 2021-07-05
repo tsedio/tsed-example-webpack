@@ -1200,12 +1200,12 @@
     ajv-formats "1.5.1"
     tslib "2.2.0"
 
-"@tsed/cli-plugin-eslint@2.7.0":
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/@tsed/cli-plugin-eslint/-/cli-plugin-eslint-2.7.0.tgz#5e4d348e4f4355f9166898d3a43163c7cb3f7f8c"
-  integrity sha512-U9wEd0pSINzjoVA7eqNVumXPFXfiNlgXg+5Q60+qhiRI7GKdxB7pabYIN5L+a/h8vtQMgZfrCBASTqzIoBoSwQ==
+"@tsed/cli-plugin-eslint@3.3.2":
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/@tsed/cli-plugin-eslint/-/cli-plugin-eslint-3.3.2.tgz#33dd4f3ea83021709f984180adc6ffed3982d671"
+  integrity sha512-HvybnjWSrNw2OQWT488leyPYmETS9TT/qiAL4C/FecX7H+hsy+DMW88rBxnze+Ur4APa3G4s+1TlUI55zce0VA==
   dependencies:
-    tslib "2.0.3"
+    tslib "2.1.0"
 
 "@tsed/cli-plugin-jest@2.7.0":
   version "2.7.0"
@@ -7205,12 +7205,12 @@ tslib@2.0.3:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.0.3.tgz#8e0741ac45fc0c226e58a17bfc3e64b9bc6ca61c"
   integrity sha512-uZtkfKblCEQtZKBF6EBXVZeQNl82yqtDQdv+eck8u7tdPxjLu2/lp5/uPW+um2tpuxINHWy3GhiccY7QgEaVHQ==
 
-tslib@2.1.0, tslib@^2.0.3:
+tslib@2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.1.0.tgz#da60860f1c2ecaa5703ab7d39bc05b6bf988b97a"
   integrity sha512-hcVC3wYEziELGGmEEXue7D75zbwIIVUMWAVbHItGPx0ziyXxrOMQx4rQEVEV45Ut/1IotuEvwqPopzIOkDMf0A==
 
-tslib@2.2.0:
+tslib@2.2.0, tslib@^2.0.3:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.2.0.tgz#fb2c475977e35e241311ede2693cee1ec6698f5c"
   integrity sha512-gS9GVHRU+RGn5KQM2rllAlR3dU6m7AcpJKdtH8gFvQiC4Otgk98XnmMU+nZenHt/+VhnBPWwgrJsyrdcw6i23w==
