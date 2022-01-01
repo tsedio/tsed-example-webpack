@@ -44,7 +44,7 @@
     "@babel/plugin-proposal-decorators": "^7.12.1",
     "@babel/preset-env": "^7.12.7",
     "@babel/preset-typescript": "^7.12.7",
-    "@tsed/cli-plugin-eslint": "2.7.0",
+    "@tsed/cli-plugin-eslint": "3.16.0",
     "@tsed/cli-plugin-jest": "2.7.0",
     "@types/compression": "^1.7.0",
     "@types/cookie-parser": "^1.4.2",
